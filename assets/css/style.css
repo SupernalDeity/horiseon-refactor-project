@@ -118,7 +118,7 @@ p {
     color: #ffffff;
 }
 
-
+/* Merged identical classes into one */
 .search-engine-optimization img,.online-reputation-management img,.social-media-marketing img {
     max-height: 200px;
 }
